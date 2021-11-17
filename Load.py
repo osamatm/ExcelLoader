@@ -14,8 +14,7 @@ if files == '':
 
 print("Selected file name : ", files[0])
 
-print("Do you want to add Delimiter between each item (Y/n): ")
-x = input()
+x = input('Do you want to add Delimiter between each item (Y/n): ')
 
 delim = '|'
 
